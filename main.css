@@ -1,37 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Gantari:wght@100&family=Kdam+Thmor+Pro&display=swap');
+
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    padding: 10px;
+    margin: 0 50px;
     font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    color: rgb(154, 3, 30);
+}
+
+h2, p {
+    margin: 0 10px;
+    font-family:'Gantari', sans-serif;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    padding: 10px 0;
+    font-weight: bold;
+    color:rgb(251, 139, 36);
+    background-color:  rgba(227, 100, 20, .3) ;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-size: 15px ;
+    padding: 5px 0;
+    color: black;
+    background-color: rgba(163, 201, 168, 0.2);
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    height: 50px;
+    width: 50px;
+    margin: 10px 5px;
 }
